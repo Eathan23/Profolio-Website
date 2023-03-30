@@ -204,6 +204,7 @@ FOOTER STYLES
 h2 {
   color: #380036;
   margin: 4px;
+  font-family: "helvetica";
 }
 
 .values-container {
