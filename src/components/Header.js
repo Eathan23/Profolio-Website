@@ -7,20 +7,23 @@ import TelegramIcon from '@mui/icons-material/Telegram';
 
 export default function Header() {
 
-  function githubLink() {
-    window.location.href="https://github.com/Eathan23/MyProjects"
+  function githubLink(event) {
+    event.preventDefault()
+    window.open("https://github.com/Eathan23/MyProjects", "target_blank")
     }
   
-  function linkedinLink() {
-    window.location.href="https://www.linkedin.com/in/eathan-washington-189383213/"
+  function linkedinLink(event) {
+    event.preventDefault()
+    window.open("https://www.linkedin.com/in/eathan-washington-189383213/", "target_blank")
   }  
 
   function emailLink() {
     window.location.href="mailto:WashingtonWebWorks@protonmial.com"
   }
   
-  function telegramLink() {
-    window.location.href="https://t.me/VoidTravler"
+  function telegramLink(event) {
+    event.preventDefault()
+    window.open("https://t.me/VoidTravler", "target_blank")
   }
 
   return(
