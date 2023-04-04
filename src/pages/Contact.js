@@ -15,10 +15,10 @@ export default function Contact() {
         </h1>
 
         <p className="page-text">
-         If you want a website made for you, exactly how you want it, weather it be for your small bussiness, 
-         for your brand, or just a personal site just for you. I'm here to help with that. The best way
-         to contact me would be at my bussiness <EmailIcon/>email: WashingtonWebWorks@protonmial.com. You can also 
-         contact me on <LinkedInIcon/>LinkedIn, and <TelegramIcon/>telagram. Links to all of those are at the top
+         If you want a website made for you, exactly how you want it, whether It's for your small business, 
+         your brand, or just a personal site just for you. I'm here to help with that. The best way
+         to contact me is my <EmailIcon/>business email: WashingtonWebWorks@protonmial.com. You can also 
+         contact me on <LinkedInIcon/>LinkedIn, and <TelegramIcon/>telegram. Links to all of those are at the top
         </p>
     <BackButton/>
      </div>

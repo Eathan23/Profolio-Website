@@ -16,12 +16,12 @@ export default function Values() {
         </h2>
 
         <p className="page-text">
-         Wether or not it's web relatead, I strive to be a little bit smarter at the end of each day.
+         Whether or not it's web related, I strive to be a little bit smarter at the end of each day.
          I find it important to keep an eye on the state of the world, economic and political. A lot 
-         of people dont find this stuff very interesting or important. They live ignorant to the state 
-         of the politics, culture, and economics that surrounds them...that is until it ends up effecting
+         of people don't find this stuff very interesting or important. They live ignorant to the state 
+         of the politics, culture, and economics that surrounds them...that is until it ends up affecting
          their own lives. I'm also keen on learning about the latest developments in web technology. The rate 
-         at which this industry moves make it one of my top priorities. 
+         at which this industry moves makes it one of my top priorities. 
         </p>
         
         <h2>
@@ -29,11 +29,11 @@ export default function Values() {
         </h2>
         
         <p className="page-text">
-          I'm thankful to have learned this lesson form a couple of different father figures I look up to.
+          I'm thankful to have learned this lesson from a couple of different father figures I look up to.
           It doesn't make sense to work harder than needed when there is an easier, faster, more efficient
-          way of doing things. Thats NOT to say that hard work isn't important because it 100% is. It's nesscecary 
-          to give every project you embark on maximmum effort. It may take some time to learn the most effective way 
-          of completing a task, but in most cases it's beneficial to know the best way of doing something.
+          way of doing things. That's NOT to say that hard work isn't important because it 100% is. It's necessary
+          to give every project you embark on maximum effort. It may take some time to learn the most effective way 
+          of completing a task, but in most cases, it's beneficial to know the best way of doing something.
         </p>
         
         <h2>
@@ -45,7 +45,7 @@ export default function Values() {
           is really challenging and offten times it can make you feel stupid. You're motivation isn't alwasys
           going to get you through your study session, or your work day. I've learned that you can't rely on your
           motivation to get you through a difficult task. You need consistency and dedication. You need to 
-          ultimately like what you're doing and you need to have the reason why you're doing what you're doing in mind.
+          ultimately like what you're doing and to have the reason why you're doing what you're doing in mind.
         </p>
         
         <h2>
@@ -53,9 +53,9 @@ export default function Values() {
         </h2>
 
         <p className="page-text">
-         We will all fail at some point in our lives. It's a part of the learning experience. Getting angry or bitter
+         We will all fail at some point in our lives. It's part of the learning experience. Getting angry or bitter
          about it will only make it harder for you to see where you went wrong and improve the next time. I feel like 
-         every failure is an oprotunity to grow and learn as a person.   
+         every failure is an opportunity to grow and learn as a person.   
         </p>
         
         <h2>
@@ -63,8 +63,8 @@ export default function Values() {
         </h2>
 
         <p className="page-text">
-         It's really important to take accountability for your actions, despite the consequences. When you're a accountable, 
-         you tend to stay on task and focused. Transperency is also very important, being open and honest with others is one of the
+         It's really important to take accountability for your actions, despite the consequences. When you're accountable, 
+         you tend to stay on task and focused. Transparency is also very important, being open and honest with others is one of the
          best ways to gain trust, and be accountable. When you're making websites for people, trust is a key factor
         </p>
 
